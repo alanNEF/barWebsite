@@ -59,6 +59,12 @@ body {
     top: 0;
 }
 
+.red-font{
+    color: #dc2626;
+    margin: 0;
+    padding: 0;
+}
+
 #landing{
     display: flex;
     padding: .3rem;
@@ -79,7 +85,8 @@ body {
 }
 
 #bar-img{
-    width: 40dvw;
+    width: 40vw;
+    height: auto;
 }
 
 #logo{
