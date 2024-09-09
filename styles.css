@@ -56,14 +56,16 @@ body {
     padding-left: 1rem;
     padding-right: 1rem;
     position: sticky;
+    top: 0;
 }
 
 #landing{
     display: flex;
-    background-color: transparent;
     padding: .3rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    color: black;
+    justify-content: space-between;
 }
 
 #landing-text{
@@ -74,7 +76,6 @@ body {
 
 #landing-text > h1{
     margin: 0;
-    color: white;
 }
 
 #bar-img{
@@ -87,6 +88,7 @@ body {
 
 #name{
     font-family: "Bebas Neue";
+    color: #dc2626;
 }
 
 #nav > ul{
