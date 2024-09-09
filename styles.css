@@ -53,7 +53,10 @@ body{
 
 #landing{
     display: flex;
-    background-color: #b91c1c;
+    background-color: transparent;
+    padding: .3rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 #landing-text{
